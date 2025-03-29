@@ -1,3 +1,6 @@
 **/build/
 .vscode/
 eigen3/
+
+/homework3/models
+/test/
